@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sealling.github.io/static/css/main.6f34112c.css",
+    "main.js": "/sealling.github.io/static/js/main.1521b329.js",
+    "static/media/1.svg": "/sealling.github.io/static/media/1.0d3af522be17234be0bd236291750d46.svg",
+    "static/media/2.svg": "/sealling.github.io/static/media/2.215d303aeec276e90cf1d1b8efe4ee94.svg",
+    "static/media/regis.svg": "/sealling.github.io/static/media/regis.d97fb9e2f9a53855fd230ecd712e88df.svg",
+    "static/media/3.svg": "/sealling.github.io/static/media/3.92136ca26baadae97b28d297759b3ac8.svg",
+    "static/media/rob1.svg": "/sealling.github.io/static/media/rob1.f7bf805e677392d8fe6fd9e7bb8d9081.svg",
+    "static/media/rob2.svg": "/sealling.github.io/static/media/rob2.bc6dc91cd0f2e56e66e2ea4327855cda.svg",
+    "static/media/logof.svg": "/sealling.github.io/static/media/logof.b9a44f4ec1eade0a93f7e829991899c9.svg",
+    "static/media/sea.svg": "/sealling.github.io/static/media/sea.8b7425a25ee69a4798508064c966b3af.svg",
+    "index.html": "/sealling.github.io/index.html",
+    "main.6f34112c.css.map": "/sealling.github.io/static/css/main.6f34112c.css.map",
+    "main.1521b329.js.map": "/sealling.github.io/static/js/main.1521b329.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f34112c.css",
+    "static/js/main.1521b329.js"
+  ]
+}
